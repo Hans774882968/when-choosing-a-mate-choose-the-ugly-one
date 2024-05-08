@@ -261,7 +261,7 @@ def gen_rands_sum_geq_s_range_0_1(n: int, s: float):
 
 柱状图示意：
 
-![](.\outp\choose_ugly_mates4.png)
+![](./outp/choose_ugly_mates4.png)
 
 描述一下图中的信息：
 
